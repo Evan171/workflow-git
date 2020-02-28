@@ -1,4 +1,4 @@
 hello world
 feature2(){
-some code;
+some code by f2 branch;
 }
