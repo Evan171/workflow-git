@@ -1,9 +1,8 @@
 hello world
-
+<<<<<<< HEAD
 feature1(){
-some code;
-}
+=======
 feature2(){
-
+>>>>>>> f2
 some code;
 }
